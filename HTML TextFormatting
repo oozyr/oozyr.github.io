@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Text Formatting</title>
+</head>
+<body>
+    <!-- Heading Section -->
+    <!-- Add a main heading (h1) here -->
+
+    <!-- Paragraph with various formatting elements -->
+    <p>
+        <!-- Add bold text using the <b> tag -->
+        <!-- Add important text using the <strong> tag -->
+        <!-- Add italic text using the <i> tag -->
+        <!-- Add emphasized text using the <em> tag -->
+        <!-- Add marked text using the <mark> tag -->
+        <!-- Add small text using the <small> tag -->
+        <!-- Add deleted text using the <del> tag -->
+        <!-- Add inserted text using the <ins> tag -->
+        <!-- Add subscript text using the <sub> tag -->
+        <!-- Add superscript text using the <sup> tag -->
+    </p>
+
+    <!-- Headings -->
+    <!-- Add headings from h1 to h6 here -->
+
+    <!-- Paragraph -->
+    <!-- Add a paragraph using the <p> tag -->
+
+    <!-- Blockquote -->
+    <!-- Add a blockquote using the <blockquote> tag -->
+
+    <!-- Ordered List -->
+    <!-- Add an ordered list using the <ol> and <li> tags -->
+
+    <!-- Unordered List -->
+    <!-- Add an unordered list using the <ul> and <li> tags -->
+
+    <!-- Image -->
+    <!-- Add an image using the <img> tag -->
+
+    <!-- Block and Division -->
+    <!-- Add a block element using the <div> tag -->
+    <!-- Add an inline element using the <span> tag -->
+</body>
+</html>
